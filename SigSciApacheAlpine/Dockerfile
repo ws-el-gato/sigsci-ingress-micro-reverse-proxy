@@ -1,6 +1,6 @@
 # Dockerfile example for debian Signal Sciences agent container
 
-FROM httpd:2.4-alpine
+FROM httpd:alpine
 MAINTAINER Signal Sciences Corp. 
 
 
