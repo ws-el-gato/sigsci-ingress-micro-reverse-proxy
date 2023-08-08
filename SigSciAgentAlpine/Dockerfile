@@ -1,6 +1,6 @@
 # Dockerfile example for debian Signal Sciences agent container
 
-FROM alpine
+FROM alpine:3.18.3
 MAINTAINER Signal Sciences Corp. 
 
 
