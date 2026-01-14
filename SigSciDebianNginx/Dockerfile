@@ -1,6 +1,6 @@
 # Dockerfile example for debian Signal Sciences agent container
 
-FROM nginx
+FROM nginx:1.29.4-trixie
 MAINTAINER Signal Sciences Corp. 
 
 COPY contrib/www/index.html /usr/share/nginx/html/index.html
